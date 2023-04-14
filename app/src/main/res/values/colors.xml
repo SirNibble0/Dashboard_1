@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+    <color name="mainText">#000</color>
+
+    <color name="white">#FFF</color>
+    <color name="part2">#241332</color>
+    <color name="part3">#9599b3</color>
+    <color name="part5">#5656d6</color>
+
+    <color name="name_d">#221131</color>
+    <color name="date_d">#A7A0AC</color>
+    <color name="text_d">#7B7185</color>
+
+    <color name="name_l">#fff</color>
+    <color name="date_l">#bcbece</color>
+    <color name="text_l">#bcbece</color>
+
+    <color name="border">#EEEBEF</color>
+</resources>
